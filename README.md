@@ -7,7 +7,7 @@ The goal is to reproduce the core ideas of **layer-wise pretraining**, **deep en
 - Layer-wise encoding-decoding architecture 🌿  
 - Captures hierarchical features from raw inputs 🧠  
 - Suitable for dimensionality reduction, feature extraction, and unsupervised representation learning ✨
--  
+ 
 **Paper reference:** [Hinton & Salakhutdinov, 2006 – Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 🧩
 
 ---
